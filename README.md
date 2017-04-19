@@ -1,4 +1,7 @@
-# test coverage for  [mock-require (v2.0.2)](https://github.com/boblauer/mock-require)  [![npm package](https://img.shields.io/npm/v/npmtest-mock-require.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mock-require) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mock-require.svg)](https://travis-ci.org/npmtest/node-npmtest-mock-require)
+# npmtest-mock-require
+
+#### test coverage for  [mock-require (v2.0.2)](https://github.com/boblauer/mock-require)  [![npm package](https://img.shields.io/npm/v/npmtest-mock-require.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mock-require) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mock-require.svg)](https://travis-ci.org/npmtest/node-npmtest-mock-require)
+
 #### Simple, intuitive mocking of Node.js modules.
 
 [![NPM](https://nodei.co/npm/mock-require.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mock-require)
