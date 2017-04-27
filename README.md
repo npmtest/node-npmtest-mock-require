@@ -1,6 +1,6 @@
 # npmtest-mock-require
 
-#### test coverage for  [mock-require (v2.0.2)](https://github.com/boblauer/mock-require)  [![npm package](https://img.shields.io/npm/v/npmtest-mock-require.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mock-require) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mock-require.svg)](https://travis-ci.org/npmtest/node-npmtest-mock-require)
+#### basic test coverage for  [mock-require (v2.0.2)](https://github.com/boblauer/mock-require)  [![npm package](https://img.shields.io/npm/v/npmtest-mock-require.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mock-require) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mock-require.svg)](https://travis-ci.org/npmtest/node-npmtest-mock-require)
 
 #### Simple, intuitive mocking of Node.js modules.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-mock-require/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-mock-require/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-mock-require/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-mock-require/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mock-require/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mock-require/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-mock-require/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-mock-require/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mock-require/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mock-require/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-mock-require/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-mock-require/build/coverage.html/index.html)
 
@@ -85,7 +85,8 @@
     "scripts": {
         "test": "NODE_PATH=test/node-path node test/runner"
     },
-    "version": "2.0.2"
+    "version": "2.0.2",
+    "bin": {}
 }
 ```
 
